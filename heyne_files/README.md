@@ -1,5 +1,5 @@
-# Heyne et al. (2020) files used in this project
-# _Heyne et al. 2020: Predicting Functional Effects of Missense Variants in Voltage-Gated Sodium and Calcium Channels_
+# Heyne et al. (2020) Files Used in This Project
+_Heyne et al. 2020: Predicting Functional Effects of Missense Variants in Voltage-Gated Sodium and Calcium Channels_
 
 This project adapts the machine-learning framework developed by Heyne et al. (2020) for predicting GOF vs LOF variants in voltage-gated ion channels.
 
