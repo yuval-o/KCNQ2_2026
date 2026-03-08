@@ -7,17 +7,6 @@ The project was conducted within the BEATKCNQ consortium of the European Partner
 
 # Repository Structure
 
-## evaluations
-
-This folder contains scripts and outputs used to evaluate the performance of the adapted model.
-
-The analyses include:
-- model performance metrics
-- comparison of evaluation strategies
-- result summaries generated from the prediction outputs.
-
----
-
 ## heyne_files
 
 This directory documents the files required from the original Heyne et al. (2020) repository.
@@ -39,6 +28,17 @@ The scripts include:
 - execution of the adapted prediction workflow.
 
 These scripts reproduce the feature generation and model input used in the KCNQ2 analysis.
+
+---
+
+## evaluations
+
+This folder contains scripts and outputs used to evaluate the performance of the adapted model.
+
+The analyses include:
+- model performance metrics
+- comparison of evaluation strategies
+- result summaries generated from the prediction outputs.
 
 ---
 
