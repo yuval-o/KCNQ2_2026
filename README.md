@@ -44,7 +44,7 @@ These scripts reproduce the feature generation and model input used in the KCNQ2
 
 # Reference and Acknowledgments
 
-Heyne H. O., et al. (2020): Predicting Functional Effects of Missense Variants in Voltage-Gated Sodium and Calcium Channels.
+*Heyne H. O., et al. (2020): Predicting Functional Effects of Missense Variants in Voltage-Gated Sodium and Calcium Channels.*
 
 We thank Henrike O. Heyne for sharing the code and feature calculation pipelines, and for helpful discussions that contributed to this work.
 
