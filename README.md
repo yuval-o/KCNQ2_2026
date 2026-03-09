@@ -7,7 +7,7 @@ The project was conducted within the BEATKCNQ consortium of the European Partner
 
 # Repository Structure
 
-## heyne_files
+## original_pipeline
 
 This directory documents the files required from the original Heyne et al. (2020) repository.
 
