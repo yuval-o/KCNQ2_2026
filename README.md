@@ -52,7 +52,7 @@ We thank Sarah Weckhuysen and Maurizio Taglialatela for collecting, characterizi
 
 ---
 
-# Author
+# Authors
 
 Yuval Oren  
 Supervised by Prof. Nir Ben-Tal
